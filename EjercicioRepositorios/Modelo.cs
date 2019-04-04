@@ -7,6 +7,6 @@ namespace EjercicioRepositorios
     {
         public int Peso { get; set; }
 
-        public string Talle { get; set; }
+        public string Talle { get;  }
     }
 }
