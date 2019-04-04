@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EjercicioRepositorios
+namespace Modelo
 {
-    public class Modelo
+    public class Ingrediente
     {
         public int Id { get; set; }
 
