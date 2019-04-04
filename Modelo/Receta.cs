@@ -13,6 +13,6 @@ namespace Modelo
 
         public string Instrucciones { get; set; }
 
-        public List<Utensilios> Utensilios { get; set; }
+        public List<Utensilio> Utensilios { get; set; }
     }
 }
