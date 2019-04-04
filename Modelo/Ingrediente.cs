@@ -1,12 +1,11 @@
 ﻿using System;
 
-
 namespace EjercicioRepositorios
 {
     public class Modelo
     {
-        public int Peso { get; set; }
+        public int Id { get; set; }
 
-        public string Talle { get; set; }
+        public string Nombre { get; set; }
     }
 }
